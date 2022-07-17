@@ -6,6 +6,7 @@
   "homepage": "./",
   "author": "percebus",
   "description": "create-react-app",
+  "license": "SEE LICENSE IN LICENSE.md",
   "scripts": {
     "npm:install:global": "npm install --location=global yarn serve",
     "setup": "npm run npm:install:global",
@@ -43,6 +44,10 @@
   "standard": {
     "env": [
       "jest"
+    ],
+    "global": [
+      "alert",
+      "chrome"
     ]
   },
   "eslintConfig": {

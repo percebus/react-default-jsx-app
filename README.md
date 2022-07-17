@@ -1,4 +1,4 @@
-# `react-default-jsx-app`
+# `react-default-jsx-app` [![verify](https://github.com/percebus/react-default-jsx-app/actions/workflows/always.yml/badge.svg)](https://github.com/percebus/react-default-jsx-app/actions/workflows/always.yml) [![dependency review](https://github.com/percebus/react-default-jsx-app/actions/workflows/pull_request.yml/badge.svg)](https://github.com/percebus/react-default-jsx-app/actions/workflows/pull_request.yml)
 
 ## Setup
 
